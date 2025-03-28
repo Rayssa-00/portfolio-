@@ -1,0 +1,10 @@
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.2rem 4rem;
+}
+
+.List-navbar {
+    padding: 1rem;
+    text-decoration: none;
+}
